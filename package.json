@@ -1,0 +1,33 @@
+{
+  "name": "ui-modal-and-timeout",
+  "version": "0.1",
+  "description": "Introducing a marketing npm module: Display modals on timeout or when the user moves the mouse upwards to close the browser window.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahuljaim/ui-modal-and-timeout.git"
+  },
+  "keywords": [
+    "marketing",
+    "tool",
+    "marketing",
+    "modal",
+    "attract",
+    "visitor",
+    "mouse",
+    "behavior",
+    "modal",
+    "user",
+    "timout",
+    "display"
+  ],
+  "author": "Rahul Jain <rahuljait@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahuljaim/ui-modal-and-timeout/issues"
+  },
+  "homepage": "https://github.com/rahuljaim/ui-modal-and-timeout#readme"
+}
