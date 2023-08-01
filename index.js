@@ -48,3 +48,5 @@ function trackUserBehavior(htmlTemplate, timeInSeconds) {
   // Append the modal container to the document body
   document.body.appendChild(modalContainer);
 }
+
+module.exports = trackUserBehavior;
