@@ -14,16 +14,14 @@ This npm module provides a powerful marketing tool to display modals based on sp
 
 Install ui-modal-and-timeout with npm
 
-````bash
+```bash
   npm i ui-modal-and-timeout
-
-
+```
 
 ## How to use
 
 ```bash
-
-const htmlTemplate = `
+const htmlTemplate = "
   <div class="modal">
     <h2>Provide your Email and Phone Number</h2>
     <form id="contactForm">
@@ -36,9 +34,10 @@ const htmlTemplate = `
       <button type="submit">Submit</button>
     </form>
   </div>
-`;
+";
+```
 
-````
+## You may invode the method by following ways:
 
 ```bash
 
@@ -53,7 +52,7 @@ The **trackUserBehavior** function takes two arguments:
 
 2-- `timeInSeconds`: The time in seconds after which the modal should appear if the user hasn't triggered it by moving the mouse upward.
 
-###The function creates a modal using the provided HTML template and attaches event listeners to track user behavior. The modal will be displayed as soon as the user moves the mouse towards the top of the page or when the specified time has passed.###
+### The function creates a modal using the provided HTML template and attaches event listeners to track user behavior. The modal will be displayed as soon as the user moves the mouse towards the top of the page or when the specified time has passed.
 
 The example usage at the end demonstrates how to use the trackUserBehavior function with a custom HTML template and a time of 10 seconds. You can modify the **htmlTemplate** and **timeInSeconds** variables to suit your specific needs.
 
