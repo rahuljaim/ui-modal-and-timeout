@@ -1,6 +1,6 @@
 {
   "name": "ui-modal-and-timeout",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Introducing a marketing npm module: Display modals on timeout or when the user moves the mouse upwards to close the browser window.",
   "main": "index.js",
   "scripts": {

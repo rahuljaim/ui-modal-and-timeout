@@ -37,7 +37,7 @@ const htmlTemplate = "
 ";
 ```
 
-## You may invode the method by following ways:
+## You may invoke the method by following ways:
 
 ```bash
 
